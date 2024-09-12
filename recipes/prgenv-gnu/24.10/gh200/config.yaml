@@ -1,0 +1,7 @@
+name: prgenv-gnu
+spack:
+  commit: gcc_142_cuda_1261 
+  repo: https://github.com/iomaganaris/spack.git
+store: /user-environment
+description: GNU Compiler toolchain with cray-mpich, Python, CMake and other development tools.
+
